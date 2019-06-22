@@ -1,0 +1,19 @@
+{
+  "name": "webpack4",
+  "version": "1.0.0",
+  "description": "webpack4 features project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santoshsc/webpack4.git"
+  },
+  "author": "Santosh Chavan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/santoshsc/webpack4/issues"
+  },
+  "homepage": "https://github.com/santoshsc/webpack4#readme"
+}
